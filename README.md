@@ -1,2 +1,5 @@
 # hello-world
-welcome to my repository
+
+Salut à tous!
+
+Safion, j'aime coder en ecoutant de la musique. j'aime le "mafee".
